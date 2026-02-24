@@ -65,5 +65,3 @@ The dataset contains historical agricultural data with attributes such as:
 * Add weather and soil quality datasets
 * Deploy dashboard using Power BI Service
 * Enable real-time data updates
-
- version)**
