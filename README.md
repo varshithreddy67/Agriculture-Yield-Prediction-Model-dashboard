@@ -5,9 +5,6 @@
 <img width="1320" height="733" alt="Screenshot 2025-12-19 112254" src="https://github.com/user-attachments/assets/a3b2822e-6ce6-4c5c-a223-449564fe933c" />
 <img width="1322" height="733" alt="Screenshot 2025-12-19 112308" src="https://github.com/user-attachments/assets/b6a16825-cba4-4257-aa07-694f14ed319b" />
 
-Here’s a **professional GitHub README.md** you can directly use for your **Power BI – Agriculture Yield Prediction Model** project.
-You can copy–paste this into your `README.md` file and edit dataset/source names if needed.
-
 
 ## 📌 Project Overview
 
